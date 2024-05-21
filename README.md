@@ -1,13 +1,11 @@
-Here is a detailed resume for you, written in English and structured to highlight your significant experiences and skills in a professional manner.
+Here is a detailed resume of me, written in English and structured to highlight my significant experiences and skills in a professional manner.
 
 ---
 
-### [Your Name]
-#### [Your Address]
-#### [City, State, ZIP Code]
-#### [Email Address]
-#### [Phone Number]
-#### [LinkedIn Profile] | [GitHub Profile]
+### [Chenxi Li]     
+#### [Shanghai University]           
+#### [LilyLi3858@gmail.com]
+
 
 ---
 
@@ -15,28 +13,29 @@ Here is a detailed resume for you, written in English and structured to highligh
 
 A dedicated and technically proficient individual with hands-on experience in natural language processing, biomedical data science, and computer vision. Strong analytical skills combined with practical experience in developing and optimizing machine learning models. Passionate about applying data science and AI techniques to solve real-world problems in the communication, financial, and biomedical sectors.
 
+
 ---
 
 ### Education
 
-**Bachelor of Engineering in Communication Engineering**
-[University Name], [City, State]  
-Expected Graduation: [Month, Year]
+**Bachelor of Engineering in Communication Engineering**   
+[Shanghai University], [Shanghai, China]   
+Expected Graduation: [June, 2025]  
 
 ---
 
-### Professional Experience
+### Professional Experience  
 
 #### **NLP Laboratory Research Assistant**
-[University Name], [City, State]  
-*Date: [Start Date] - [End Date]*
+[Shanghai University], [Shanghai, China]  
+*Date: [November, 2023] - [April, 2024]*              
 
 - **Named Entity Recognition (NER) and Relation Extraction (RE) Projects**:
     - Conducted extensive literature reviews on advanced NER and RE techniques, focusing on "Parallel Instance Query Network for Named Entity Recognition" and "Anaphor Assisted Document-Level Relation Extraction."
     - Successfully reproduced and validated experimental results, implementing models and ensuring accuracy through rigorous testing.
     - Contributed to the development and maintenance of the lab's NER benchmark dataset, ensuring data quality and robustness.
-    - Annotated the "AI Paper Abstracts" dataset to enhance research capabilities and improve NER model accuracy.
-  
+    - Annotated the "AI Paper Abstracts" dataset to enhance research capabilities and improve NER and RE model accuracy.
+
 - **Biomedical Information Processing**:
     - Focused on Protein-Protein Interaction (PPI) research, reading and replicating findings from "Exploring the Knowledge of An Outstanding Protein to Protein Interaction Transformer."
     - Developed and trained models for predicting PPIs using cutting-edge transformer architectures, achieving state-of-the-art performance.
@@ -46,13 +45,10 @@ Expected Graduation: [Month, Year]
 Changchun Gensci Pharmaceutical Co., Ltd., Changchun, China  
 *Date: March 2024 - [Current]*
 
-- **Initial Research Phase (March 25 - April 12, 2024)**:
+- **Initial Research Phase (March 25 - April 19, 2024)**:
     - Conducted an in-depth review of biomedicine-related papers, including the latest research on protein language models like ESM and ProteinMPNN.
     - Gained a profound understanding of these models' principles, applications, and limitations in drug development and biomedical research.
-  
-- **Focused Research on Downstream Tasks (April 15 - April 19, 2024)**:
     - Investigated tasks such as protein stability prediction, antigen-antibody affinity prediction, and small molecule ADMET properties.
-    - Understood the significance of these tasks in accelerating drug development and clinical applications.
   
 - **ADMET Prediction Module Development (April 22 - Present)**:
     - Chose to focus on small molecule ADMET property prediction due to its relevance and potential impact on the company's biocomputing platform.
@@ -91,12 +87,12 @@ Changchun Gensci Pharmaceutical Co., Ltd., Changchun, China
 
 ### Skills
 
-- **Programming Languages**: Python, Java, C++
-- **Machine Learning & AI**: TensorFlow, PyTorch, scikit-learn
+- **Programming Languages**: Python, C++
+- **Machine Learning & AI**: PyTorch, scikit-learn
 - **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn
 - **Tools & Frameworks**: MMDetection, NLTK, Spacy
 - **Web Development**: HTML, CSS, JavaScript, WeChat Mini Program Development
-- **Other**: Git, Docker, SQL
+- **Other**: Git, Docker, Latex
 
 ---
 
