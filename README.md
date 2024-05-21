@@ -2,21 +2,21 @@ Here is a detailed resume of me, written in English and structured to highlight 
 
 ---
 
-### Chenxi Li              
+## Chenxi Li              
 #### Shanghai University             
 #### LilyLi3858@gmail.com  
 
 
 ---
 
-### Summary
+## Summary
 
 A dedicated and technically proficient individual with hands-on experience in natural language processing, biomedical data science, and computer vision. Strong analytical skills combined with practical experience in developing and optimizing machine learning models. Passionate about applying data science and AI techniques to solve real-world problems in the communication, financial, and biomedical sectors.
 
 
 ---
 
-### Education
+## Education
 
 **Bachelor of Engineering in Communication Engineering**   
 Shanghai University, Shanghai, China   
@@ -56,7 +56,7 @@ Changchun Gensci Pharmaceutical Co., Ltd., Shanghai, China
     - Led the data collection, cleaning, model selection, optimization, deployment, and testing processes.
     - Collaborated closely with the team to refine algorithms, ensuring the ADMET prediction module's stability and accuracy on the biocomputing platform.
 
-#### **"Non-Destructive Detection of Citrus Sugar Content" Project**
+### **"Non-Destructive Detection of Citrus Sugar Content" Project**
 Shanghai University, Shanghai, China  
 *Date: March, 2023 - March, 2024*    
 - **Data Collection and Model Applicationr**
@@ -66,7 +66,7 @@ Shanghai University, Shanghai, China
     - Responsible for training the model, optimizing performance by adjusting network architecture and hyperparameters.
     - Evaluated model prediction accuracy using Mean Squared Error (MSE) and Mean Relative Error (MRE), achieving an MRE of 3.748% and an MSE of 0.3317.     Implemented 10-fold cross-validation to ensure model generalization and robustness.
 
-#### **Computer Vision (CV) Research Assistant**
+### **Computer Vision (CV) Research Assistant**
 Shanghai University, Shanghai, China  
 *Date: September, 2023 - March, 2024*        
 
@@ -74,7 +74,7 @@ Shanghai University, Shanghai, China
 - Conducted comparative experiments to assess model performance on various datasets, providing insights into their strengths and weaknesses.
 - Optimized model parameters to enhance detection accuracy, contributing to the lab's research endeavors.
 
-#### **Python Programming Projects**
+### **Python Programming Projects**
 
 - **Network Protocol Analysis and Data Packet Filtering**:
     - Developed tools using Python for analyzing network protocols and filtering data packets.
@@ -83,7 +83,7 @@ Shanghai University, Shanghai, China
 - **Voice Changer Application**:
     - Designed and implemented a voice changer application using signal processing techniques for real-time audio transformation.
 
-#### **IoT-Based Lithium Battery Shared Bicycle Management System**
+### **IoT-Based Lithium Battery Shared Bicycle Management System**
 **Frontend Developer**
 - Developed the WeChat Mini Program interface for managing lithium battery shared bicycles.
 - Integrated IoT technologies for real-time battery monitoring and management, enhancing user experience and operational efficiency.
@@ -91,7 +91,7 @@ Shanghai University, Shanghai, China
 
 ---
 
-### Skills
+## Skills
 
 - **Programming Languages**: Python, C++
 - **Data Analysis & AI**: Pandas, NumPy, Matplotlib, PyTorch, scikit-learn, MMDetection(Frameworks)
@@ -100,8 +100,8 @@ Shanghai University, Shanghai, China
 
 ---
 
-### Other Experience                    
-#### Minister of the Sci-Tech Innovation Department
+## Other Experience                    
+### Minister of the Sci-Tech Innovation Department
 Student Union, School of Communication and Information Engineering, Shanghai University, Shanghai, China  
 *Date: September, 2023 - May, 2024*       
 - **Responsibilities:**
@@ -119,28 +119,28 @@ Student Union, School of Communication and Information Engineering, Shanghai Uni
 
 ---
 
-### Certifications                                                     
+## Certifications                                                     
 
 - **[Certification Name]**, [Issuing Organization], [Date]
 - **[Certification Name]**, [Issuing Organization], [Date]
 
 ---
 
-### Languages
+## Languages
 
 - English: 542 CET6      
 - Chinese: Native
 
 ---
 
-### Professional Development
+## Professional Development
 
 - Attended workshops and webinars on advanced machine learning techniques and their applications in biomedical research.
 - Actively participated in hackathons and coding competitions, securing top positions and gaining practical experience in problem-solving and innovation.
 
 ---
 
-### References
+## References
 
 Available upon request.
 
