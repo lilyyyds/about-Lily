@@ -24,9 +24,9 @@ Expected Graduation: June, 2025
 
 ---
 
-### Professional Experience  
+## Professional Experience  
 
-#### **NLP Laboratory Research Assistant**
+### **NLP Laboratory Research Assistant**
 Shanghai University, Shanghai, China  
 *Date: November, 2023 - April, 2024*              
 
@@ -41,7 +41,7 @@ Shanghai University, Shanghai, China
     - Developed and trained models for predicting PPIs using cutting-edge transformer architectures, achieving state-of-the-art performance.
     - Implemented and optimized models, contributing to the lab's ongoing bioinformatics research.
 
-#### **Data Scientist Intern**
+### **Data Scientist Intern**
 Changchun Gensci Pharmaceutical Co., Ltd., Shanghai, China  
 *Date: March 2024 - Current*
 
