@@ -57,11 +57,14 @@ Changchun Gensci Pharmaceutical Co., Ltd., Shanghai, China
     - Collaborated closely with the team to refine algorithms, ensuring the ADMET prediction module's stability and accuracy on the biocomputing platform.
 
 #### **"Non-Destructive Detection of Citrus Sugar Content" Project**
-**Data Scientist and Developer**
-- Performed repeated measurements on samples to reduce random errors, conducted validation, data cleaning, and preprocessing before saving the data.
-- Applied Convolutional Neural Networks (CNN) in the SugarNet model to extract and learn sugar content features from spectral data.
-- Responsible for training the model, optimizing performance by adjusting network architecture and hyperparameters.
-- Evaluated model prediction accuracy using Mean Squared Error (MSE) and Mean Relative Error (MRE), achieving an MRE of 3.748% and an MSE of 0.3317. Implemented 10-fold cross-validation to ensure model generalization and robustness.
+Shanghai University, Shanghai, China  
+*Date: March, 2023 - March, 2024*    
+- **Data Collection and Model Applicationr**
+    - Performed repeated measurements on samples to reduce random errors, conducted validation, data cleaning, and preprocessing before saving the data.
+
+    - Applied Convolutional Neural Networks (CNN) in the SugarNet model to extract and learn sugar content features from spectral data.
+    - Responsible for training the model, optimizing performance by adjusting network architecture and hyperparameters.
+    - Evaluated model prediction accuracy using Mean Squared Error (MSE) and Mean Relative Error (MRE), achieving an MRE of 3.748% and an MSE of 0.3317.     Implemented 10-fold cross-validation to ensure model generalization and robustness.
 
 #### **Computer Vision (CV) Research Assistant**
 Shanghai University, Shanghai, China  
@@ -93,13 +96,11 @@ Shanghai University, Shanghai, China
 - **Programming Languages**: Python, C++
 - **Data Analysis & AI**: Pandas, NumPy, Matplotlib, PyTorch, scikit-learn, MMDetection(Frameworks)
 - **Web Development**: JavaScript, WeChat Mini Program Development
-- **Other**: Git, Docker, Latex
+- **Other**: PPT, Linux, Latex, Git, Docker    
 
 ---
 
 ### Other Experience                    
-
-
 #### Minister of the Sci-Tech Innovation Department
 Student Union, School of Communication and Information Engineering, Shanghai University, Shanghai, China  
 *Date: September, 2023 - May, 2024*       
