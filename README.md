@@ -42,7 +42,7 @@ Expected Graduation: [June, 2025]  
     - Implemented and optimized models, contributing to the lab's ongoing bioinformatics research.
 
 #### **Data Scientist Intern**
-Changchun Gensci Pharmaceutical Co., Ltd., Changchun, China  
+Changchun Gensci Pharmaceutical Co., Ltd., Shanghai, China  
 *Date: March 2024 - [Current]*
 
 - **Initial Research Phase (March 25 - April 19, 2024)**:
@@ -56,9 +56,16 @@ Changchun Gensci Pharmaceutical Co., Ltd., Changchun, China
     - Led the data collection, cleaning, model selection, optimization, deployment, and testing processes.
     - Collaborated closely with the team to refine algorithms, ensuring the ADMET prediction module's stability and accuracy on the biocomputing platform.
 
+#### **"Non-Destructive Detection of Citrus Sugar Content" Project**
+**Data Scientist and Developer**
+- Performed repeated measurements on samples to reduce random errors, conducted validation, data cleaning, and preprocessing before saving the data.
+- Applied Convolutional Neural Networks (CNN) in the SugarNet model to extract and learn sugar content features from spectral data.
+- Responsible for training the model, optimizing performance by adjusting network architecture and hyperparameters.
+- Evaluated model prediction accuracy using Mean Squared Error (MSE) and Mean Relative Error (MRE), achieving an MRE of 3.748% and an MSE of 0.3317. Implemented 10-fold cross-validation to ensure model generalization and robustness.
+
 #### **Computer Vision (CV) Research Assistant**
-[University Name], [City, State]  
-*Date: [Start Date] - [End Date]*
+[Shanghai University], [Shanghai, China]  
+*Date: [September, 2023] - [March, 2024]*        
 
 - Utilized the MMDetection framework to run and evaluate object detection models, including Faster R-CNN and YOLO.
 - Conducted comparative experiments to assess model performance on various datasets, providing insights into their strengths and weaknesses.
@@ -78,25 +85,25 @@ Changchun Gensci Pharmaceutical Co., Ltd., Changchun, China
 - Developed the WeChat Mini Program interface for managing lithium battery shared bicycles.
 - Integrated IoT technologies for real-time battery monitoring and management, enhancing user experience and operational efficiency.
 
-#### **"Non-Destructive Detection of Citrus Sugar Content" Project**
-**Data Scientist and Developer**
-- Led the implementation of a regression model using 1D Convolutional Neural Networks (CNN) for infrared spectroscopy data analysis.
-- Achieved an average relative error of less than 4%, showcasing the model's effectiveness in non-destructive testing applications.
 
 ---
 
 ### Skills
 
 - **Programming Languages**: Python, C++
-- **Machine Learning & AI**: PyTorch, scikit-learn
-- **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn
-- **Tools & Frameworks**: MMDetection, NLTK, Spacy
-- **Web Development**: HTML, CSS, JavaScript, WeChat Mini Program Development
+- **Data Analysis & AI**: Pandas, NumPy, Matplotlib, PyTorch, scikit-learn, MMDetection(Frameworks)
+- **Web Development**: JavaScript, WeChat Mini Program Development
 - **Other**: Git, Docker, Latex
 
 ---
 
-### Certifications
+### Other Experience                    
+
+
+
+---
+
+### Certifications                                                     
 
 - **[Certification Name]**, [Issuing Organization], [Date]
 - **[Certification Name]**, [Issuing Organization], [Date]
@@ -105,7 +112,7 @@ Changchun Gensci Pharmaceutical Co., Ltd., Changchun, China
 
 ### Languages
 
-- English: Fluent
+- English: 542 CET6      
 - Chinese: Native
 
 ---
