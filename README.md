@@ -61,7 +61,7 @@ Changchun Gensci Pharmaceutical Co., Ltd., Shanghai, China
     - Led the data collection, cleaning, model selection, optimization, deployment, and testing processes.
     - Collaborated closely with the team to refine algorithms, ensuring the ADMET prediction module's stability and accuracy on the biocomputing platform.
 
-### **"Non-Destructive Detection of Citrus Sugar Content" Project**
+### **"Non-destructive Detection Technology for Citrus Sugar Content Based on Infrared Spectroscopy and Convolutional Neural Networks" Project**
 Shanghai University, Shanghai, China  
 *Date: March, 2023 - March, 2024*    
 - **Data Collection and Model Applicationr**
