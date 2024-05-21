@@ -1,20 +1,20 @@
 Here is a detailed resume of me, written in English and structured to highlight my significant experiences and skills in a professional manner.
 
----
+
 
 ## Chenxi Li              
 #### Shanghai University             
 #### LilyLi3858@gmail.com  
 
 
----
+
 
 ## Summary
 
 A dedicated and technically proficient individual with hands-on experience in natural language processing, biomedical data science, and computer vision. Strong analytical skills combined with practical experience in developing and optimizing machine learning models. Passionate about applying data science and AI techniques to solve real-world problems in the communication, financial, and biomedical sectors.
 
 
----
+
 
 ## Education
 
@@ -22,7 +22,7 @@ A dedicated and technically proficient individual with hands-on experience in na
 Shanghai University, Shanghai, China   
 Expected Graduation: June, 2025  
 
----
+
 
 ## Professional Experience  
 
@@ -89,7 +89,7 @@ Shanghai University, Shanghai, China
 - Integrated IoT technologies for real-time battery monitoring and management, enhancing user experience and operational efficiency.
 
 
----
+
 
 ## Skills
 
@@ -98,7 +98,7 @@ Shanghai University, Shanghai, China
 - **Web Development**: JavaScript, WeChat Mini Program Development
 - **Other**: PPT, Linux, Latex, Git, Docker    
 
----
+
 
 ## Other Experience                    
 ### Minister of the Sci-Tech Innovation Department
@@ -117,33 +117,33 @@ Student Union, School of Communication and Information Engineering, Shanghai Uni
       - **Competition Platform**: Held seminars to share insights on various competitions.
       - **Course Platform**: Created the Hongjia Academy Notebook for course guidance and study recommendations.
 
----
+
 
 ## Certifications                                                     
 
 - **[Certification Name]**, [Issuing Organization], [Date]
 - **[Certification Name]**, [Issuing Organization], [Date]
 
----
+
 
 ## Languages
 
 - English: 542 CET6      
 - Chinese: Native
 
----
+
 
 ## Professional Development
 
 - Attended workshops and webinars on advanced machine learning techniques and their applications in biomedical research.
 - Actively participated in hackathons and coding competitions, securing top positions and gaining practical experience in problem-solving and innovation.
 
----
+
 
 ## References
 
 Available upon request.
 
----
+
 
 This detailed resume highlights your extensive research and practical experiences, showcasing your technical skills and contributions in various projects and internships. It provides a clear picture of your capabilities and makes you a strong candidate for data-driven roles in the communication, financial, or biomedical sectors.
