@@ -49,8 +49,13 @@ Changchun Gensci Pharmaceutical Co., Ltd., Shanghai, China
     - Conducted an in-depth review of biomedicine-related papers, including the latest research on protein language models like ESM and ProteinMPNN.
     - Gained a profound understanding of these models' principles, applications, and limitations in drug development and biomedical research.
     - Investigated tasks such as protein stability prediction, antigen-antibody affinity prediction, and small molecule ADMET properties.
+    - [These are some of the papers I have read](https://blog.csdn.net/lily_2002_/category_12678844.html). Further updates were not made due to the company's research direction and confidentiality issues.
+
+
+
   
 - **ADMET Prediction Module Development (April 22 - Present)**:
+
     - Chose to focus on small molecule ADMET property prediction due to its relevance and potential impact on the company's biocomputing platform.
     - Engaged in comprehensive discussions and planning with team members to define development goals.
     - Led the data collection, cleaning, model selection, optimization, deployment, and testing processes.
