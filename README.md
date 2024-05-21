@@ -19,16 +19,16 @@ A dedicated and technically proficient individual with hands-on experience in na
 ### Education
 
 **Bachelor of Engineering in Communication Engineering**   
-[Shanghai University], [Shanghai, China]   
-Expected Graduation: [June, 2025]  
+Shanghai University, Shanghai, China   
+Expected Graduation: June, 2025  
 
 ---
 
 ### Professional Experience  
 
 #### **NLP Laboratory Research Assistant**
-[Shanghai University], [Shanghai, China]  
-*Date: [November, 2023] - [April, 2024]*              
+Shanghai University, Shanghai, China  
+*Date: November, 2023 - April, 2024*              
 
 - **Named Entity Recognition (NER) and Relation Extraction (RE) Projects**:
     - Conducted extensive literature reviews on advanced NER and RE techniques, focusing on "Parallel Instance Query Network for Named Entity Recognition" and "Anaphor Assisted Document-Level Relation Extraction."
@@ -43,7 +43,7 @@ Expected Graduation: [June, 2025]  
 
 #### **Data Scientist Intern**
 Changchun Gensci Pharmaceutical Co., Ltd., Shanghai, China  
-*Date: March 2024 - [Current]*
+*Date: March 2024 - Current*
 
 - **Initial Research Phase (March 25 - April 19, 2024)**:
     - Conducted an in-depth review of biomedicine-related papers, including the latest research on protein language models like ESM and ProteinMPNN.
@@ -64,8 +64,8 @@ Changchun Gensci Pharmaceutical Co., Ltd., Shanghai, China
 - Evaluated model prediction accuracy using Mean Squared Error (MSE) and Mean Relative Error (MRE), achieving an MRE of 3.748% and an MSE of 0.3317. Implemented 10-fold cross-validation to ensure model generalization and robustness.
 
 #### **Computer Vision (CV) Research Assistant**
-[Shanghai University], [Shanghai, China]  
-*Date: [September, 2023] - [March, 2024]*        
+Shanghai University, Shanghai, China  
+*Date: September, 2023 - March, 2024*        
 
 - Utilized the MMDetection framework to run and evaluate object detection models, including Faster R-CNN and YOLO.
 - Conducted comparative experiments to assess model performance on various datasets, providing insights into their strengths and weaknesses.
@@ -100,10 +100,12 @@ Changchun Gensci Pharmaceutical Co., Ltd., Shanghai, China
 ### Other Experience                    
 
 
-#### Minister of the Sci-Tech Innovation Department, Student Union, School of Communication and Information Engineering
-
+#### Minister of the Sci-Tech Innovation Department
+Student Union, School of Communication and Information Engineering, Shanghai University, Shanghai, China  
+*Date: September, 2023 - May, 2024*       
 - **Responsibilities:**
     - Organized departmental activities, reviewed promotional articles, and compiled activity summaries.
+
     - Planned team-building events to enhance cohesion.
     - Conducted one-on-one meetings with members to understand their needs and provide support.
 
