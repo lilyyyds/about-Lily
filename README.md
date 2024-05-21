@@ -100,6 +100,19 @@ Changchun Gensci Pharmaceutical Co., Ltd., Shanghai, China
 ### Other Experience                    
 
 
+#### Minister of the Sci-Tech Innovation Department, Student Union, School of Communication and Information Engineering
+
+- **Responsibilities:**
+    - Organized departmental activities, reviewed promotional articles, and compiled activity summaries.
+    - Planned team-building events to enhance cohesion.
+    - Conducted one-on-one meetings with members to understand their needs and provide support.
+
+- **Key Achievements:**
+    - **Activity Management**: Managed project exchange meetings, end-of-term knowledge sessions, "Internet+" competitions, and the Challenge Cup.
+    - **Innovative Initiatives**:
+      - **Skills Platform**: Organized soldering competitions for beginners.
+      - **Competition Platform**: Held seminars to share insights on various competitions.
+      - **Course Platform**: Created the Hongjia Academy Notebook for course guidance and study recommendations.
 
 ---
 
