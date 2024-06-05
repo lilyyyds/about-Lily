@@ -113,7 +113,7 @@
 
 ---
 
-这份详细的简历展示了你在各个项目和实习中的丰富研究和实践经验，突出了你的技术技能和贡献，使你成为通信、金融或生物医学领域数据驱动岗位的强有力候选人。
+
 
 
 
@@ -284,8 +284,6 @@ Student Union, School of Communication and Information Engineering, Shanghai Uni
 Available upon request.
 
 
-
-This detailed resume highlights your extensive research and practical experiences, showcasing your technical skills and contributions in various projects and internships. It provides a clear picture of your capabilities and makes you a strong candidate for data-driven roles in the communication, financial, or biomedical sectors.
 -->
 
 
