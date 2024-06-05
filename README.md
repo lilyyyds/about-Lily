@@ -3,10 +3,11 @@ Here is a detailed resume of me, written in English and structured to highlight 
 
 
 ## Chenxi Li              
-#### Shanghai University             
+#### Shanghai University        
+
+<!-- 
 #### LilyLi3858@gmail.com  
-
-
+-->
 
 
 ## Summary
