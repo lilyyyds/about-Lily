@@ -122,21 +122,22 @@ Student Union, School of Communication and Information Engineering, Shanghai Uni
       - **Competition Platform**: Held seminars to share insights on various competitions.
       - **Course Platform**: Created the Hongjia Academy Notebook for course guidance and study recommendations.
 
-
+<!-- 
 
 ## Certifications                                                     
 
-- **[Certification Name]**, [Issuing Organization], [Date]
-- **[Certification Name]**, [Issuing Organization], [Date]
+- **[Electronics Design Contest上海大学2023年大学生电子设计竞赛二等奖]**, [Shanghai University], [November, 2023]
 
+- **[Scholarships奖学金：学业特等、领导力、文艺体育、翔英学院品学兼优]**, [Shanghai University], [September, 2023]
 
+-->
 
 ## Languages
 
 - English: 542 CET6      
 - Chinese: Native
 
-
+<!-- 
 
 ## Professional Development
 
@@ -152,3 +153,4 @@ Available upon request.
 
 
 This detailed resume highlights your extensive research and practical experiences, showcasing your technical skills and contributions in various projects and internships. It provides a clear picture of your capabilities and makes you a strong candidate for data-driven roles in the communication, financial, or biomedical sectors.
+-->
