@@ -11,7 +11,7 @@
 上海大学，上海，中国  
 预计毕业时间：2025年6月     
 绩点：3.76/4.00   
-专业排名：2/33  
+专业排名：2/33   
 年级排名：18/421
 
 ## 专业经验
@@ -147,10 +147,8 @@ Here is a detailed resume of me, written in English and structured to highlight 
 
 ## Chenxi Li              
 #### Shanghai University        
-
-<!-- 
 #### LilyLi3858@gmail.com  
--->
+
 
 
 ## Summary
@@ -165,7 +163,7 @@ A dedicated and technically proficient individual with hands-on experience in na
 **Bachelor of Engineering in Communication Engineering**   
 Shanghai University, Shanghai, China   
 Expected Graduation: June, 2025  
-GPA: 3.76/4.00       
+GPA: 3.76/4.00 
 Major Rank: 2/33(18/421)                                             
 
 ## Professional Experience  
