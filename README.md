@@ -1,6 +1,13 @@
 ### 李晨曦
-#### 上海大学
+#### 上海大学              
+#### tianzhenyouxie2002@163.com  
+
+<!-- 
 #### LilyLi3858@gmail.com  
+
+-->
+
+
 ## 简介
 
 我在自然语言处理、生物医学数据科学和计算机视觉方面有着丰富的实践经验。拥有较强的分析能力，结合实践经验，致力于开发和优化机器学习模型。热衷于应用数据科学和人工智能技术解决通信、金融和生物医学领域的实际问题。
@@ -142,9 +149,13 @@ Here is a detailed resume of me, written in English and structured to highlight 
 
 
 ## Chenxi Li              
-#### Shanghai University        
+#### Shanghai University       
+#### tianzhenyouxie2002@163.com  
+
+<!-- 
 #### LilyLi3858@gmail.com  
 
+-->
 
 
 ## Summary
@@ -264,7 +275,6 @@ Student Union, School of Communication and Information Engineering, Shanghai Uni
       - **Competition Platform**: Held seminars to share insights on various competitions.
       - **Course Platform**: Created the Hongjia Academy Notebook for course guidance and study recommendations.
 
-<!-- 
 
 ## Certifications                                                     
 
@@ -277,7 +287,6 @@ Student Union, School of Communication and Information Engineering, Shanghai Uni
 
 
 
--->
 
 ## Languages
 
