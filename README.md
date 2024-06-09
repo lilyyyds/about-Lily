@@ -9,7 +9,10 @@
 
 **通信工程学士**  
 上海大学，上海，中国  
-预计毕业时间：2025年6月
+预计毕业时间：2025年6月     
+绩点：3.76/4.00   
+专业排名：2/33
+年级排名：18/421
 
 ## 专业经验
 
@@ -31,6 +34,10 @@
 ### **基于红外光谱和卷积神经网络的柑橘糖度无损检测技术项目**
 上海大学，上海，中国  
 *2023年3月 - 2024年3月*
+
+- **在投文章**
+
+    -《基于可见/近红外光谱的柑橘糖度无损检测》，电子测量技术期刊，第二作者
 
 - **数据采集和模型应用**：
     - 对样本进行重复测量以减少随机误差，进行校验、数据清洗与预处理后保存数据。
@@ -158,8 +165,8 @@ A dedicated and technically proficient individual with hands-on experience in na
 **Bachelor of Engineering in Communication Engineering**   
 Shanghai University, Shanghai, China   
 Expected Graduation: June, 2025  
-
-
+GPA: 3.76/4.00       
+Major Rank: 2/33(18/421)                                             
 
 ## Professional Experience  
 
