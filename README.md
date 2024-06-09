@@ -187,7 +187,7 @@ Shanghai University, Shanghai, China
 Shanghai University, Shanghai, China  
 *Date: March, 2023 - March, 2024*    
 - **Manuscript Under Review**  
-      - 《基于可见/近红外光谱的柑橘糖度无损检测》，电子测量技术, the Second author
+    - 《基于可见/近红外光谱的柑橘糖度无损检测》，电子测量技术, the Second author
 - **Data Collection and Model Applicationr**
     - Performed repeated measurements on samples to reduce random errors, conducted validation, data cleaning, and preprocessing before saving the data.
 
