@@ -28,7 +28,17 @@
     - 开发和训练用于预测PPI的模型，采用前沿的变换器架构，达到业界领先的性能。
     - 实施和优化模型，为实验室的生物信息学研究做出贡献。
 
-### **数据科学家实习生**
+### **基于红外光谱和卷积神经网络的柑橘糖度无损检测技术项目**
+上海大学，上海，中国  
+*2023年3月 - 2024年3月*
+
+- **数据采集和模型应用**：
+    - 对样本进行重复测量以减少随机误差，进行校验、数据清洗与预处理后保存数据。
+    - 将卷积神经网络（CNN）应用于SugarNet中，从光谱数据中提取和学习糖度特征。
+    - 负责模型的训练工作，通过调整网络结构和超参数优化模型性能。
+    - 使用均方误差（MSE）和平均相对误差（MRE）评估模型预测精度，实现平均相对误差（MRE）为3.748%，均方误差（MSE）为0.3317。实施10折交叉验证，确保模型的泛化能力和鲁棒性。
+
+### **计算生物实习生**
 长春金赛药业有限公司，上海，中国  
 *2024年3月 - 目前*
 
@@ -44,15 +54,6 @@
     - 领导数据收集、清洗、模型选择、优化、部署和测试过程。
     - 密切合作，优化算法，确保ADMET预测模块在生物计算平台上的稳定性和准确性。
 
-### **基于红外光谱和卷积神经网络的柑橘糖度无损检测技术项目**
-上海大学，上海，中国  
-*2023年3月 - 2024年3月*
-
-- **数据采集和模型应用**：
-    - 对样本进行重复测量以减少随机误差，进行校验、数据清洗与预处理后保存数据。
-    - 将卷积神经网络（CNN）应用于SugarNet中，从光谱数据中提取和学习糖度特征。
-    - 负责模型的训练工作，通过调整网络结构和超参数优化模型性能。
-    - 使用均方误差（MSE）和平均相对误差（MRE）评估模型预测精度，实现平均相对误差（MRE）为3.748%，均方误差（MSE）为0.3317。实施10折交叉验证，确保模型的泛化能力和鲁棒性。
 
 ### **计算机视觉研究助理**
 上海大学，上海，中国  
@@ -103,9 +104,11 @@
 
 ## 证书
 
-- **电子设计竞赛上海大学2023年大学生电子设计竞赛二等奖**，上海大学，2023年11月
+- **2023年大学生电子设计竞赛二等奖**，上海大学，2023年11月
 
 - **奖学金：学业特等、领导力、文艺体育、翔英学院品学兼优**，上海大学，2023年9月
+  
+- **上海大学2023年第九届“互联网+”大学生创新创业大赛校内选拔赛银奖**，上海大学，2023年7月  
 
 ## 语言
 
@@ -174,8 +177,19 @@ Shanghai University, Shanghai, China
     - Focused on Protein-Protein Interaction (PPI) research, reading and replicating findings from "Exploring the Knowledge of An Outstanding Protein to Protein Interaction Transformer."
     - Developed and trained models for predicting PPIs using cutting-edge transformer architectures, achieving state-of-the-art performance.
     - Implemented and optimized models, contributing to the lab's ongoing bioinformatics research.
+ 
+### **"Non-destructive Detection Technology for Citrus Sugar Content Based on Infrared Spectroscopy and Convolutional Neural Networks" Project**
+Shanghai University, Shanghai, China  
+*Date: March, 2023 - March, 2024*    
+- **Data Collection and Model Applicationr**
+    - Performed repeated measurements on samples to reduce random errors, conducted validation, data cleaning, and preprocessing before saving the data.
 
-### **Data Scientist Intern**
+    - Applied Convolutional Neural Networks (CNN) in the SugarNet model to extract and learn sugar content features from spectral data.
+    - Responsible for training the model, optimizing performance by adjusting network architecture and hyperparameters.
+    - Evaluated model prediction accuracy using Mean Squared Error (MSE) and Mean Relative Error (MRE), achieving an MRE of 3.748% and an MSE of 0.3317.     Implemented 10-fold cross-validation to ensure model generalization and robustness.
+
+
+### **AIDD Intern** 
 Changchun Gensci Pharmaceutical Co., Ltd., Shanghai, China  
 *Date: March 2024 - Current*
 
@@ -195,15 +209,6 @@ Changchun Gensci Pharmaceutical Co., Ltd., Shanghai, China
     - Led the data collection, cleaning, model selection, optimization, deployment, and testing processes.
     - Collaborated closely with the team to refine algorithms, ensuring the ADMET prediction module's stability and accuracy on the biocomputing platform.
 
-### **"Non-destructive Detection Technology for Citrus Sugar Content Based on Infrared Spectroscopy and Convolutional Neural Networks" Project**
-Shanghai University, Shanghai, China  
-*Date: March, 2023 - March, 2024*    
-- **Data Collection and Model Applicationr**
-    - Performed repeated measurements on samples to reduce random errors, conducted validation, data cleaning, and preprocessing before saving the data.
-
-    - Applied Convolutional Neural Networks (CNN) in the SugarNet model to extract and learn sugar content features from spectral data.
-    - Responsible for training the model, optimizing performance by adjusting network architecture and hyperparameters.
-    - Evaluated model prediction accuracy using Mean Squared Error (MSE) and Mean Relative Error (MRE), achieving an MRE of 3.748% and an MSE of 0.3317.     Implemented 10-fold cross-validation to ensure model generalization and robustness.
 
 ### **Computer Vision (CV) Research Assistant**
 Shanghai University, Shanghai, China  
@@ -260,9 +265,14 @@ Student Union, School of Communication and Information Engineering, Shanghai Uni
 
 ## Certifications                                                     
 
-- **[Electronics Design Contest上海大学2023年大学生电子设计竞赛二等奖]**, [Shanghai University], [November, 2023]
+- **[SHU Electronics Design Contest上海大学2023年大学生电子设计竞赛二等奖]**, [Shanghai University], [November, 2023]
 
 - **[Scholarships奖学金：学业特等、领导力、文艺体育、翔英学院品学兼优]**, [Shanghai University], [September, 2023]
+
+- **[SHU 'Internet Plus' Innovation and Entrepreneurship Competition上海大学2023年第九届“互联网+”大学生创新创业大赛校内选拔赛银奖]**, [Shanghai University], [July, 2023]
+
+
+
 
 -->
 
