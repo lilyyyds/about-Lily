@@ -35,9 +35,9 @@
 上海大学，上海，中国  
 *2023年3月 - 2024年3月*
 
-- **在投文章**
+- **在投文章**： 
 
-    -《基于可见/近红外光谱的柑橘糖度无损检测》，电子测量技术期刊，第二作者
+    - 《基于可见/近红外光谱的柑橘糖度无损检测》，电子测量技术期刊，第二作者
 
 - **数据采集和模型应用**：
     - 对样本进行重复测量以减少随机误差，进行校验、数据清洗与预处理后保存数据。
@@ -162,7 +162,7 @@ A dedicated and technically proficient individual with hands-on experience in na
 
 **Bachelor of Engineering in Communication Engineering**   
 Shanghai University, Shanghai, China   
-Expected Graduation: June, 2025  
+Expected Graduation: June, 2025 
 GPA: 3.76/4.00 
 Major Rank: 2/33(18/421)                                             
 
@@ -186,6 +186,8 @@ Shanghai University, Shanghai, China
 ### **"Non-destructive Detection Technology for Citrus Sugar Content Based on Infrared Spectroscopy and Convolutional Neural Networks" Project**
 Shanghai University, Shanghai, China  
 *Date: March, 2023 - March, 2024*    
+- **Manuscript Under Review** 
+      - 《基于可见/近红外光谱的柑橘糖度无损检测》，电子测量技术, the Second author
 - **Data Collection and Model Applicationr**
     - Performed repeated measurements on samples to reduce random errors, conducted validation, data cleaning, and preprocessing before saving the data.
 
